@@ -5,7 +5,7 @@ import numpy as np
 import threading
 import traitlets
 
-#version 0.2
+#version 0.3 hallo?
 
 class RTSPCamera(Camera):
     
